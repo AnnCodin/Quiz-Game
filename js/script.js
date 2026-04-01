@@ -70,3 +70,5 @@ let answersDisabled = false;
 totalQuestionsSpan.textContent = quizQuestions.length;
 maxScoreSpan.textContent = quizQuestions.length;
 
+totalQuestionsSpan.textContent = quizQuestions.length;
+maxScoreSpan.textContent = quizQuestions.length;
